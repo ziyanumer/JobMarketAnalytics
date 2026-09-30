@@ -1,0 +1,6 @@
+# Raw and cleaned Kaggle data (too large for Git)
+data/
+
+# Python
+__pycache__/
+*.pyc
